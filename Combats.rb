@@ -1,3 +1,4 @@
+
 # -- Gestion automatisée des combats pour une partie de D&D --
 
 # -- Fonction de tri des participants  --
