@@ -1,5 +1,3 @@
-# Exercice pour utiliser les classes !
-
 class Joueur
 
   # Accès en lecture à mes deux attributs
