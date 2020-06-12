@@ -1,3 +1,6 @@
+
+# -- Gestion automatisée des combats pour une partie de D&D --
+
 # -- Fonction de tri des participants  --
 def tri_participants(f_participants)
   f_tour = f_participants.sort do |participant_a, participant_b|
