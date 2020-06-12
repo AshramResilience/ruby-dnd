@@ -1,4 +1,4 @@
-# Exercice pour utiliser les classes
+# Exercice pour utiliser les classes !
 
 class Joueur
 
