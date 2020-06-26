@@ -1,4 +1,4 @@
 # ruby-dnd
-Little Ruby program to play DnD !
+Kataryna
 
-Pour le test !
+Gestionnaire de combat Kataryna pour Donjon & Dragons
